@@ -3,7 +3,7 @@
  
 Project Title:save data with Real time clock in SD Card .
 Name: Mostafa Kahlil Ahmed.
-Email:Mostafa.elsherif1995@gamail.com.
+Email:Mostafa.elsherif.1995@gamail.com.
 
 
 Hardware:
